@@ -9,7 +9,6 @@ Our numerical approach utilizes previously developed and benchmarked, thermomech
 
 The included COMSOL models utilize the following additional modules: Heat Transfer Module, LiveLink for MATLAB, Nonlinear Structural Materials Module, Structure Mechanics Module, and Subsurface Flow Module.
 
-## stuff
 
 
 
